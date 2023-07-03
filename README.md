@@ -87,7 +87,7 @@ https://github.com/boxcast/boxcast-sdk-apple
 
 ## Usage
 
-Before you get started make sure to grab the id of the channel you want to get broadcasts from. This can be found on your [BoxCast Dashboard](https://dashboard.boxcast.com/#/channels).
+Before you get started make sure to grab the id of the channel you want to get broadcasts from. This can be found on your [BoxCast Dashboard](https://dashboard.boxcast.com/channels).
 
 ### Set Up
 
