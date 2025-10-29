@@ -2,6 +2,8 @@
 
 ![Travis Status Image](https://travis-ci.org/boxcast/boxcast-sdk-apple.svg?branch=master)
 
+**This repository is no longer being maintained or supported. Please use at your own risk.**
+
 The official BoxCast SDK for integrating with the BoxCast API on Apple platforms.
 
 ## Features
